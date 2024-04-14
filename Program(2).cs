@@ -81,7 +81,8 @@ namespace ConsoleApplication
                 Console.WriteLine("Amount Payable: {0:C}", totalCost - discount);
                 Console.WriteLine("--------------------------------------------");
 
-
+                    Console.WriteLine("THI wassup");
+                
 
                 // Input User Choice
                 Console.Write("Input Y/y To Continue Or Any Other Key To Exit: ");
